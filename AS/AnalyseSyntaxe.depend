@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1475867518 source:c:\users\othmane\desktop\compilation\tp2\analysesyntaxe\main.c
+	"AnalyseSyntaxe.h"
+
+1475869752 c:\users\othmane\desktop\compilation\tp2\analysesyntaxe\analysesyntaxe.h
+	"header.h"
+
+1475866844 c:\users\othmane\desktop\compilation\tp2\analysesyntaxe\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1476020193 source:c:\users\othmane\desktop\compilation\tp2\analysesyntaxe - copy\main.c
+	"AnalyseSyntaxe.h"
+
+1476006804 c:\users\othmane\desktop\compilation\tp2\analysesyntaxe - copy\analysesyntaxe.h
+	"header.h"
+
+1476007700 c:\users\othmane\desktop\compilation\tp2\analysesyntaxe - copy\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1476173493 source:c:\users\othmane\desktop\compilation\tp2\analysesyntaxe - 10102016\main.c
+	"AnalyseSyntaxe.h"
+
+1476176617 c:\users\othmane\desktop\compilation\tp2\analysesyntaxe - 10102016\analysesyntaxe.h
+	"header.h"
+
+1476177080 c:\users\othmane\desktop\compilation\tp2\analysesyntaxe - 10102016\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1476357635 source:c:\users\othmane\desktop\compilation\tp2\analysesyntaxe - 10102016 - copy\main.c
+	"AnalyseSyntaxe.h"
+
+1476358617 c:\users\othmane\desktop\compilation\tp2\analysesyntaxe - 10102016 - copy\analysesyntaxe.h
+	"header.h"
+
+1476177080 c:\users\othmane\desktop\compilation\tp2\analysesyntaxe - 10102016 - copy\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1476357635 source:c:\users\othmane\documents\analysesyntaxe - final\main.c
+	"AnalyseSyntaxe.h"
+
+1476358617 c:\users\othmane\documents\analysesyntaxe - final\analysesyntaxe.h
+	"header.h"
+
+1476177080 c:\users\othmane\documents\analysesyntaxe - final\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1476354035 source:c:\users\othmane\desktop\analysesyntaxe - final\main.c
+	"AnalyseSyntaxe.h"
+
+1507479905 c:\users\othmane\desktop\analysesyntaxe - final\analysesyntaxe.h
+	"header.h"
+
+1476173480 c:\users\othmane\desktop\analysesyntaxe - final\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
